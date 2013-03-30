@@ -3,3 +3,5 @@
 {"ts":1361570910526,"patch":[[{"diffs":[[0,"s = new "],[-1,"b"],[1,"B"],[0,"rushStro"]],"start1":5,"start2":5,"length1":17,"length2":17},{"diffs":[[0,"arr'}});"],[1,"\nbs.init();"],[0,"\n\nfuncti"]],"start1":251,"start2":251,"length1":16,"length2":27}]],"length":879,"saved":false}
 {"ts":1361581344947,"patch":[[{"diffs":[[0,"canvas',"],[1," 'color': {'r': 255, 'g': 255, 'b': 255, 'a': 1},"],[0," 'height"]],"start1":45,"start2":45,"length1":16,"length2":65}]],"length":928,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1361809375567,"patch":[[{"diffs":[[0,"w Warr'}"],[1,", 'brush': {'width':5}"],[0,"});\nbs.i"]],"start1":297,"start2":297,"length1":16,"length2":38}]],"length":950,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1364679331868,"patch":[[{"diffs":[[0,"'width':"],[-1,"5"],[0,"}});\nbs."]],"start1":317,"start2":317,"length1":17,"length2":16}]],"length":949,"saved":false}
+{"ts":1364679334647,"patch":[[{"diffs":[[0,"'width':"],[1,"10"],[0,"}});\nbs."]],"start1":317,"start2":317,"length1":16,"length2":18}]],"length":951,"saved":false}

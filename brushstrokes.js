@@ -71,7 +71,7 @@ BrushStrokes.prototype.init = function () {
 
   this.context.fillText(this.content.text, this.content.x, this.content.y);
 
-  this.context.lineWidth = 5;
+  this.context.lineWidth = this.brush.width;
 
   this.rect = this.canvas.getBoundingClientRect();
 
