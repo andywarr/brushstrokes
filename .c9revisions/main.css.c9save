@@ -1,0 +1,1 @@
+{"ts":1361569673079,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"body {\n  height: inherit;\n  margin: 0;\n  width: inherit;\n}\n\ncanvas {\n\n}\n\nhtml {\n  height: 100%;\n  overflow: hidden;\n  width: 100%;\n}"]],"start1":0,"start2":0,"length1":0,"length2":132}]],"length":132}
